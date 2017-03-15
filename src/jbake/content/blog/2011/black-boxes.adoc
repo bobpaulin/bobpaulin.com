@@ -1,0 +1,27 @@
+title=Working With Black Boxes
+date=2011-03-31
+type=post
+tags=blog, asciidoc
+status=published
+~~~~~~
+= Working With Black Boxes
+Bob Paulin
+2011-03-31
+
+I hate black boxes. For folks that don't know what I'm talking about imagine a gumball machine made entirely of steal (no glass). The first time you put a quarter in and the first time you get a gumball. Wanting 2 more gumballs you put in 2 quarters in and out pops a hairball. Frustated the next time you put a dime in, kick it for good measure and out spouts a cheeseball. Blackboxes are frustrating and risky in software development for the same reasons. You input a value in order to obtain an expected outcome then when it doesn't work or even worse works sporatically you're left scratching your head to what to do next. You read the documentation but the thing is not working as you expect it to.
+
+For a business this is huge risk since you never really know if you've covered all the scenerios. Producing production grade software is like walking through a mine field. Untested code fragments are mines. With closed source you really have no choice but to send folks in with blind folds on. You have no idea if you're going to prod some live rounds in the ground. With open source it is possible to use code coverage tools to measure how much of the code you've run thorugh. So in that case you're still in a mine field but you've got a metal detector to guide you along the way. But even with open source there are always cases were the environment is interfering or perhaps something is going on with the hardware (plastic mines!). Even stuff we think we know is often built on top of black boxes.
+
+I've had a couple extremely frustrating experiances working with black boxes. The first was trying to build a message board with Microsoft Frontpage back in 2000. They had this great interface that allowed you to generate a message board with a wizard and embed it into a page. I added it to my fraternity's site and quickly decided I wanted to tweak the thing a bit. I was looking through the code tinkering with config parameters for hours. Finially i discovered that all this "stuff" was going into an executable that completely mystified me. I was completely stuck. That's probably what drove me away from Microsoft to Java when it came to web development. When I started out a lot of libraries were still black boxes to me. I hadn't learned enough about the language yet. As I became a more seasoned developer I learned that if a couple quick searches on message boards didn't solve the problem then next best thing was to just pull down the source or even use a decompiler to see what made the library tick. It's a huge security blanket dealing with open source software since you can always pull back the curtain and see what the Wizard (pun intended) is doing. And that got me pretty comfortable for a while until I met a new black box ... SiteMinder.
+
+SiteMinder and I had our first encounter in 2009 but it wasn't until I got into consulting last year that I saw how much of black box the product really is. SiteMinder is a security product that protects websites from unwanted visitors by blocking pages that user should not have access to. The package comes with it's own templating file type known as FCC's that allows a programmer to create custom pages to collect login credentials and change passwords. It also comes with an SDK that allows you to send commands to it using Java. And though it uses open source web servers (Apache) to render the FCC files and contains a published JavaDoc for the sdk the core program is all proprietary and poorly documented. Black box. The company that I was consulting at for the job hired another consultant that specialized in the software. This is a common strategy. If you have a black box hire somone who's used it before. For common tasks this worked quite well. Things that this consultant had done previously happend very quickly with very few problems. The issues came when we started doing things the consultant had not previously encountered. His first reaction "Hey the samples that came with the black box worked so it must be because you've deviated from it" or "Since you're doing it slightly different that I've done it on previous projects that must be the issue". When I pressed for an explaination why most of the time I could not get a straight answer. This led to a great deal of frustration and finger pointing. In some cases I found another way that was closer to the consultant's previous experiances to get things to work. Other times I complied a number of experiments to defend my team's code and a few times he discovered some new secret configuration option that solved the problem instantly.
+
+So what did I learn from all this? The only way to understand a black box is either to find a way to open it or through rigorous experimentation. Decompilers and open source software are great things to combat black boxes. However more than likely at some point in your career you'll run into them. And frankly get used to it. The world is just one more black box waiting to be openned.
+
+A couple of parting words of advice dealing with black boxes:
+
+Start with your Intuition
+
+Experiance trumps Intuition
+
+Experimentation trumps Experiance

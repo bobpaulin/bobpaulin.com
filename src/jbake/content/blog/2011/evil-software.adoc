@@ -1,0 +1,18 @@
+title=Evil Software
+date=2011-12-01
+type=post
+tags=blog, asciidoc
+status=published
+~~~~~~
+= Evil Software
+Bob Paulin
+2011-12-01
+
+A shocking thing occurred to me the other day while I was reading Catching Fire by Suzanne Collins. I started thinking about ethics in an unexpected way. The book and it's predecessor Hunger Games have themes that touch on a number of moral issues around killing and exploitation that are very troubling. As my mind drifted past those questions I asked myself could this really happen sometime in the future? I felt a gripping terror when I rationalized it as entirely possible. The most frightening aspect for me is the power of big brother watching your every action and the control they could have over everyday life. Much like in Nineteen Eighty-Four by George Orwell people with unprecedented access to your daily interactions have the ability to manipulate you and your peers. This type of control was never possible in the past. Kings could rule with an iron fist, people could be watched and controlled but only to a certain degree. Thanks to technology, mainly software, the rulers in the above stories are able monitor your every move. And right now as we speak in the real world, this type of technology is being developed and could soon become a reality. The potential impact of this technology is frightening.
+
+As someone who writes software for a living I think it's clear that we need to step back and think about these things. Gerald Weinberg writes about software ethics in the last chapter of his landmark book The Psychology of Computer Programming stating that software can be used for good and for evil. He mentions an example of how the computer has provided for great advancements in how we store, query, and represent information. However he points out that for all the good that has come from computers just think of how much more efficient the Nazis would be if they were able to use them to track people. Add a database with a couple table columns, an agile methodology, and they could track the velocity to wipe entire races of people off the map. Chilling...
+
+Today we have drone aircraft flying around all corners of the globe, facial recognition software, video cameras mounted in numerous places to do things from tracking motorist behavior to tracking terrorists. As free people we have to ask ourselves what controls are in place to protect us against these things if they fall into the wrong hands. What actions do we have to protect ourselves from misuse? What is the point where protection intrudes on our basic rights as people? Is my current project making things worse?
+
+So what's the point of all this? The point is that as a technologist you have a great responsibility to think of these things and ask yourself what your work is really amounting to. You have the power to change the world and become famous for it. But before you change the world have you asked yourself if the world you’re creating is one you’d like to live in?
+
