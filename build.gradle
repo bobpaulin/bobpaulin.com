@@ -38,6 +38,7 @@ githubPages {
      from(file("$siteDir")) {
      	into '.'
      }
+     from file('CNAME')
   }
   credentials {
     // Use token stored as property for local builds and a travis encrypted key (in 'GH_TOKEN') for Travis builds
