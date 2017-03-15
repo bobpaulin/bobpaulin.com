@@ -31,8 +31,8 @@ def siteDir = "$buildDir/jbake"
 
 githubPages {
 //  repoUri = 'git@github.com:bobpaulin/bobpaulin.com.github.io.git'
-  repoUri = 'https://github.com/bobpaulin/bobpaulin.com.github.io.git'
-  targetBranch = 'gh-pages'
+  repoUri = 'https://github.com/bobpaulin/bobpaulin.github.io.git'
+  targetBranch = 'master'
 
   pages {
      from(file("$siteDir")) {
