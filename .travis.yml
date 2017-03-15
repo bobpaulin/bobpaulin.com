@@ -13,3 +13,7 @@ cache:
   directories:
     - $HOME/.gradle/caches/
     - $HOME/.gradle/wrapper/
+
+env:
+  global:
+  - secure: "Q2MuQetWnAMTJRCYCatUrcwAfSj+Ne+uhVaNCWul3pKrSXrgikVkVAzqunE4psGYA7ETkC1h4WriRGNCsy7rrbvspr7RTR7joHDf/nxYxISr5w+yDNDheM3cnBeo2CLRBNLvuPx6tO0tAcFV03QjYfAkdz4Yrqk4jYBK3qXMGs6vyVWG1T+8UAgO/Fl0qWjvbqFd/kol17Gy2cPUYiRYFEXPwEu7n8ABBwiEapTgtYsa0r6o84FYb/0LWiAfgLZeB7lQFJwwS/yq++wz2DRdkBFEHpUofMyJcU3Fwz9ff0AvdrMjb1xVxHltCZo4aQKbJg/Y0W+MJrnHO7QJPgC7Y21vz14f15XAWNdC4At8urFiRs8LGtcbs8U/OI+zH0gjw4+YASwcswbUzQ5mscrvVKFeQMVx4fsSRzyIhxu7chhs/Xd8V47cv0CyTVTHZleKDJW0uj7Re0E9tv6bs9RiAGCtNFy7t3Xnl47GiHDYy0znuHLuSGYY3Qx8c45yZYotEh9R3ukRgYHuaMRZC0jbY/UeRaZTNUn2PKh8JXB2hQW0MAnTx2KPWgVcZDDH2lqIglPZJK3WWsQLeIowapexYaOYHBBfVh8I1vMMLef/KcLXEMQCNQXeVbpbNa1e0qcpFKRrG8CaMvtOk2qquAKScavJihJqtQiInJZfoRL3AYw="
