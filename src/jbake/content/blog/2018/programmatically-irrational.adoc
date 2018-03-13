@@ -1,0 +1,22 @@
+title=Programmatically Irrational - Not Imagined Here
+date=2018-03-12
+type=post
+tags=blog, asciidoc
+status=draft
+~~~~~~
+= Programmatically Irrational - Not Imagined Here
+Bob Paulin
+2018-03-12
+
+Developers pride themselves on being the Dr Spock's of our companies.  We're suppose to be cool and stoic in the face of even the most difficult problems.  When we are faced with slow websites we measure before we optimize.  When we are given impossible dates we deliver what is essential rather than what is perfect.  When product comes to us with a flashy new idea we ask for the data showing it will work.  These are all things to be proud of but it's exactly our belief that we are completely rational that blinds us to the fact that even developers can be utterly irrational with bias, self control, and economics in our decision making.  The title is a pariody off of Dan Ariely's [underline]#Predictably Irrational# My hope for you as the reader is to be able to identify these situations and make sounder decisions. Hoping to make a bit of a series out of this so enjoy!
+
+Not Imagined Here
+
+Many of us have heard of "Not Invented Here" syndrome which is very common in shops that write a lot of code that has already been done either in Open Source or on other teams.  This behavior is driven by the assumption that because "I" wrote it then it is superior to code written by others.  Not Imagined Here is roughly the same but is rather our resistance to the ideas we don't think of ourselves.  We are often more critical of ideas that didn't emerge from our own minds and we often take pleasure in the active of proving someone else's idea wrong.  Now critical discussion of an idea is almost always a good thing.  Where it goes bad is when it becomes more about "winning" than actually assessing the strengths and weaknesses of the matter at hand.  
+
+Overcoming the desire to win at all costs often starts with realizing that we've often made a split second decision about the merit of an idea before we've really considered the data or rational.  In the book [underline]#Thinking, Fast and Slow# Daniel Kahneman would refer to this as a decision made by System 1.  However our defense of our conclusion drawn from System 1 is often vigorously defended by our more rational side that Kahneman refers to as System 2.  So our arguments against the idea are often very reflective and thought out.  But remember you're defending a gut take on something you may not fully understand!  This frequently leads to sub-optimal decision making within teams as well a reciprocal resistance to ideas.  
+
+So how do we counteract our own mental processes?  I think the first step is start with goal of understanding the other person's position before trying to place judgment.  This can be difficult because we need to at least for a few mins accept that the other person's idea may be true/correct.  Restating the idea in your own words can often be a great starting point to the conversation.  Ask some questions around parts that are not clear.  Next admit the potential benefits to the other person's idea then start identifying the assumptions that are required for the benefits to be realized.  This allows you to identify potential challenges to the idea without being critical of the idea itself. It also allows you to realize that the idea may in fact be a good one if those circumstances are probable.  
+
+Now what about when it's your idea and you feel you're getting unfair resistance?  You can play the same game with your ideas.  Identify your own assumptions and see if you can find some common ground with your team.  If the assumptions are different and there is no common ground it may become obvious that you and your team are solving 2 distinct problems.  You may also find that you've made a bad assumption in your though process.  If none of this works you might be getting trolled.  Lets face it some folks just like to argue and prove folks wrong to make themselves feel bigger.  In cases like these there's little value in continuing the conversation your time is best used influencing others in the organization.  And if you're convinced you're right just write the code!  It never ceases to amaze me how often working code helps move ideas forward.  
+
