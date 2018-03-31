@@ -36,5 +36,7 @@ Lastly when we buy a product we have to give up some control.  You want to keep 
 I think it's fair to say as a developer we're not paid to code.  We're paid to solve problems that add value to the businesses that support us.  That's what keeps the money flowing to our bank accounts!  So it's important to consider all the costs going into our build and buy decisions whether we're going with open source or with paid solutions.  At the end of the day there's no free lunch!
 
 [1] https://en.wikipedia.org/wiki/IKEA_effect
+
 [2] http://www.apache.org/foundation/how-it-works.html
+
 [3] https://community.apache.org/apache-way/apache-project-maturity-model.html
