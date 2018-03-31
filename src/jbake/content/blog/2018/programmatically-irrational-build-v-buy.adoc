@@ -2,7 +2,7 @@ title=Programmatically Irrational - Build vs Buy
 date=2018-03-25
 type=post
 tags=blog, asciidoc
-imagesdir=images
+imagesdir=assets/images
 status=draft
 ~~~~~~
 = Programmatically Irrational - Build vs Buy
