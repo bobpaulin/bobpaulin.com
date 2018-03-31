@@ -2,6 +2,7 @@ title=Programmatically Irrational - Build vs Buy
 date=2018-03-25
 type=post
 tags=blog, asciidoc
+imagesdir=images
 status=draft
 ~~~~~~
 = Programmatically Irrational - Build vs Buy
@@ -16,7 +17,7 @@ Lets face it Open Source has won.  The world is filled with high quality open so
 
 The most obvious cost is our time.  While we're building something new is there something else we could be doing with our time to add value?  This is called opportunity cost and often goes unnoticed until the end of the year when we don't meet our goals.  The cost of a developer's time is generally the largest expense on a project.  Compare the annual cost of a developer to company compared to a large server:
 
-image::images/DevCost.PNG[]
+image::DevCost.PNG[]
 
    We also tend to overvalue the things we've spent our own time to build.  This has been dubbed the IKEA Effect [1] and is discussed in another book by Dan Ariely "The Upside of Irrationality".  This can cause us to try to hold on to our own pet projects when better options are available (and cheaper) in the market. The cost of owning the your product's dependency tree is another often under-estimated costs on a project.  That pang of fear you experience whenever you change a dependency version or switch to a new runtime comes from the fact that you realize that simple change could be bringing in hundreds of lines of new code.  This means taking some time to match up library versions to make sure the entire application is compatible.  Platforms like JavaEE (now JakartaEE), Spring Boot and Apache Karaf try to lower some of these costs by providing tested library combinations that just work.  But it still make take some time to upgrade these platforms to newer versions.  
 
