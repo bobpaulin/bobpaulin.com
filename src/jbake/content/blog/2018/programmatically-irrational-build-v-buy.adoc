@@ -9,7 +9,7 @@ status=draft
 Bob Paulin
 2018-03-25
 
-=== Intro
+===  
 
 We developers love to write code.  There is no better feeling in the world than to push some new (working!) code to production and see it run to benefit other people.  We can just pull in the lastest open source libraries and get to work on our next great creation.   However often before we start coding our bosses, whom have just come back from a trade show, are asking us why they can just buy the hot new product all their friends have been talking about.  According to the whitepaper and the online product demo it does everything you're looking to build plus more!  These days the developers have a significant say in these decisions (We just get stickers instead of fancy dinners).  So which is the right call: Build or Buy?  As in most engineering decisions: "It depends...." But before we evaluate it's important to understand the bias at work on both sides: the hidden costs of free software and hidden costs of paid software.
 
