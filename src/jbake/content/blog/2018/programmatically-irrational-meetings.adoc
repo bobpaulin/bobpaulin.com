@@ -1,0 +1,12 @@
+title=Programmatically Irrational - Meetings
+date=2018-03-25
+type=post
+tags=blog, asciidoc
+status=draft
+~~~~~~
+= Programmatically Irrational - Meetings
+:imagesdir: /images
+Bob Paulin
+2018-03-25
+
+Why do meetings waste time.
