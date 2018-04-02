@@ -1,13 +1,13 @@
 title=Programmatically Irrational - To Code or Not To Code
-date=2018-03-25
+date=2018-04-2
 type=post
 tags=blog, asciidoc
-status=draft
+status=published
 ~~~~~~
 = Programmatically Irrational - To Code or Not To Code
 :imagesdir: /images
 Bob Paulin
-2018-03-25
+2018-04-2
 
 === Prologue
 
