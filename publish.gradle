@@ -1,0 +1,30 @@
+buildscript {
+  repositories {
+      mavenLocal()
+      mavenCentral()   
+      jcenter()
+  }
+
+  dependencies { 
+    classpath 'org.ajoberstar:gradle-git:1.7.0' 
+  }
+}
+
+apply plugin: 'org.ajoberstar.github-pages'
+
+githubPages {
+  repoUri = 'https://github.com/bobpaulin/bobpaulin.github.io.git'
+  targetBranch = 'master'
+  pages {
+     from(file('build/jbake')) {
+     	into '.'
+     }
+     from file('CNAME')
+  }
+  credentials {
+    // Use token stored as property for local builds and a travis encrypted key (in 'GH_TOKEN') for Travis builds
+    username = project.hasProperty('msgGithubAccessToken') ? msgGithubAccessToken : System.getenv('GH_TOKEN')
+    // Apparently password can't be null or '' if githubPages to use "hardcoded" credential in the username.
+    password = '\n'
+  }
+}
