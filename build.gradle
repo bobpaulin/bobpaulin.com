@@ -22,7 +22,6 @@ jbake {
     clearCache = true
     destDirName = 'jbake'
     version = '2.5.0'
-    clearCache = true
 }
 
 
