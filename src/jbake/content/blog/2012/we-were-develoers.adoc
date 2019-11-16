@@ -3,6 +3,7 @@ date=2012-11-06
 type=post
 tags=blog, asciidoc
 status=published
+summary=I’m a sucker for epic movies. I especially enjoy the epics where regular people are put in extraordinary circumstances. Heroes with no super powers, or unlimited resources, are forced to face off against seemingly insurmountable odds. And after a long struggle, the heroes emerge victorious. These stories inspire me and drive me to be more like the heroes. But how can someone who writes code for a living aspire be a hero or even resemble the people in these movies? Most people see coding as a docile and individual activity occurring in a tranquil setting. There’s nothing epic about typing words on a keyboard…or is there?
 ~~~~~~
 = We Were Developers
 Bob Paulin

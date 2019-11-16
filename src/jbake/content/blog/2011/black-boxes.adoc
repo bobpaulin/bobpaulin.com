@@ -3,6 +3,7 @@ date=2011-03-31
 type=post
 tags=blog, asciidoc
 status=published
+summary=I hate black boxes. For folks that don't know what I'm talking about imagine a gumball machine made entirely of steal (no glass). The first time you put a quarter in and the first time you get a gumball. Wanting 2 more gumballs you put in 2 quarters in and out pops a hairball. Frustated the next time you put a dime in, kick it for good measure and out spouts a cheeseball. Blackboxes are frustrating and risky in software development for the same reasons. You input a value in order to obtain an expected outcome then when it doesn't work or even worse works sporatically you're left scratching your head to what to do next. You read the documentation but the thing is not working as you expect it to.
 ~~~~~~
 = Working With Black Boxes
 Bob Paulin

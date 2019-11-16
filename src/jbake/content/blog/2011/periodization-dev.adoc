@@ -3,6 +3,7 @@ date=2011-06-29
 type=post
 tags=blog, asciidoc
 status=published
+summary=Probably one of the last things a person may associate together is a software developer and a weightlifter (there are exceptions). However there are techniques in weight lifting that I believe can be applied to a software developer’s regime to enhance performance. I’m not talking about steroids although caffeine is probably the closest thing to steroids for a developer. I’m talking about periodization.
 ~~~~~~
 = Periodization for Developers
 Bob Paulin

@@ -3,6 +3,7 @@ date=2012-01-31
 type=post
 tags=blog, asciidoc
 status=published
+summary=As the super bowl nears you can't avoid constant bombardment of advertising, predictions and analysis leading up to the game. You can either fight it or embrace it. I personally love the sport so today I am embracing it in the context of web development.
 ~~~~~~
 = Full Contact Web Development
 Bob Paulin

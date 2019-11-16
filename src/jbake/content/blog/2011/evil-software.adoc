@@ -3,6 +3,7 @@ date=2011-12-01
 type=post
 tags=blog, asciidoc
 status=published
+summary=A shocking thing occurred to me the other day while I was reading Catching Fire by Suzanne Collins. I started thinking about ethics in an unexpected way. The book and it's predecessor Hunger Games have themes that touch on a number of moral issues around killing and exploitation that are very troubling. As my mind drifted past those questions I asked myself could this really happen sometime in the future? I felt a gripping terror when I rationalized it as entirely possible. The most frightening aspect for me is the power of big brother watching your every action and the control they could have over everyday life. Much like in Nineteen Eighty-Four by George Orwell people with unprecedented access to your daily interactions have the ability to manipulate you and your peers. This type of control was never possible in the past. Kings could rule with an iron fist, people could be watched and controlled but only to a certain degree. Thanks to technology, mainly software, the rulers in the above stories are able monitor your every move. And right now as we speak in the real world, this type of technology is being developed and could soon become a reality. The potential impact of this technology is frightening.
 ~~~~~~
 = Evil Software
 Bob Paulin

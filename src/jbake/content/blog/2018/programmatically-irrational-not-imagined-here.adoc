@@ -3,6 +3,7 @@ date=2018-03-14
 type=post
 tags=blog, asciidoc
 status=published
+summary=As developers, we pride ourselves on being the Spocks of our companies.  We're supposed to be cool and stoic in the face of even the most difficult problems.  When we are faced with slow websites, we measure before we optimize.  When we are given impossible dates, we deliver what is essential rather than what is perfect.  When Product Managers come to us with a flashy new idea, we ask for the data to justify the cost of building said idea.  These are all things to be proud of, but it's exactly our belief that we are completely rational that blinds us.  Even developers can be utterly irrational with bias, self control, and economics in our decision making.  The title of my post is a parody off of Dan Ariely's "Predictably Irrational" that explores the causes of irrational decisions in everyday life. My hope for you as the reader is to be able to identify these situations and make sounder decisions. Hoping to make a bit of a series out of this so enjoy!
 ~~~~~~
 = Programmatically Irrational - Not Imagined Here
 Bob Paulin

@@ -9,7 +9,7 @@ buildscript {
     classpath 'me.champeau.gradle:jbake-gradle-plugin:0.2'
 	classpath 'org.jbake:jbake-core:2.5.0'
     classpath 'org.asciidoctor:asciidoctorj:1.5.2'
-    classpath 'org.freemarker:freemarker:2.3.19'
+    classpath 'org.freemarker:freemarker:2.3.29'
 	classpath 'org.pegdown:pegdown:1.4.2'
   }
 }

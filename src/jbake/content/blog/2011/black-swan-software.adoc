@@ -3,6 +3,7 @@ date=2011-06-21
 type=post
 tags=blog, asciidoc
 status=published
+summary=I happen to be rereading The Black Swan by Nassim Taleb and started to thinking about the black swans that I run into in the world of software. Software embodies the essence of the black swan which consists of the following:
 ~~~~~~
 = The Black Swans of Software Engineering
 Bob Paulin
