@@ -12,7 +12,8 @@
 					<a href="${post.uri}"><h1><#escape x as x?xml>${post.title}</#escape></h1></a>
 					<p>${post.date?string("dd MMMM yyyy")}</p>
 					<#if (post.summary)??>
-						<p>${post.summary}  <a href="${post.uri}">Continue Reading</a> >>></p>
+						<p>${post.summary}</p>
+						<p><a href="${post.uri}">Continue Reading >>></a></p>
 					</#if>
 				</#if>
 			</#list>
