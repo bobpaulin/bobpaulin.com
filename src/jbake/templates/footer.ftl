@@ -4,7 +4,7 @@
     
     <div id="footer">
       <div class="container">
-        <p class="muted credit">&copy; 2018 Bob Paulin</p>
+        <p class="muted credit">&copy; ${.now?string('yyyy')} Bob Paulin</p>
       </div>
     </div>
     
