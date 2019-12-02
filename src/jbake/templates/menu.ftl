@@ -14,7 +14,7 @@
           <ul class="nav navbar-nav">
             <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>index.html">Home</a></li>
             <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>tags/blog.html">Blogs</a></li>
-            <!--<li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>tags/tutorial.html">Tutorials</a></li>-->
+            <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>tags/tutorial.html">Tutorials</a></li>
             <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>about.html">About</a></li>
             <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>${config.feed_file}">Subscribe</a></li>
             <!--<li class="dropdown">
