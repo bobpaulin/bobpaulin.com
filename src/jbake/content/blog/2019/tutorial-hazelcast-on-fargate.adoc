@@ -3,6 +3,7 @@ date=2019-12-02
 type=post
 tags=tutorial, asciidoc
 status=published
+summary=The following tutorial covers setting up Hazelcast on AWS Fargate using the Hazelcast Kubernetes Plugin with DNS Service discovery.
 ~~~~~~
 = Tutorial - Hazelcast on AWS Fargate
 :imagesdir: /images
