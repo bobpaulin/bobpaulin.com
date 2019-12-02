@@ -1,13 +1,13 @@
 title=Tutorial - Hazelcast on AWS Fargate
-date=2019-11-14
+date=2019-12-02
 type=post
 tags=tutorial, asciidoc
-status=draft
+status=published
 ~~~~~~
 = Tutorial - Hazelcast on AWS Fargate
 :imagesdir: /images
 Bob Paulin
-2019-11-14
+2019-12-02
 
 === Overview
 
